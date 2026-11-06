@@ -40,4 +40,18 @@ Fase para servir
 
 <img width="837" height="836" alt="image" src="https://github.com/user-attachments/assets/f0346f93-ca1f-484c-8664-1d04a6ed4af5" />
 
+<h3>Video de funcionamiento</h3>
+
+
+
+
+
+https://github.com/user-attachments/assets/a1e97500-d6ac-41ef-9740-6a45db422fb3
+
+
+
+
+
+
+
 
