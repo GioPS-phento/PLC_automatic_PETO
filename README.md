@@ -47,7 +47,8 @@ Fase para servir
 
 
 https://github.com/user-attachments/assets/a1e97500-d6ac-41ef-9740-6a45db422fb3
-
+<h3>Versión 2</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qgnYMaPx0PY?si=MwIC4RIs6mWnCfxP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
