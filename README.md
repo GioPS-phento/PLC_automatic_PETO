@@ -50,7 +50,8 @@ https://github.com/user-attachments/assets/a1e97500-d6ac-41ef-9740-6a45db422fb3
 <h3>Versión 2</h3>
 
 
-
-[![Ver video en YouTube](https://youtube.com)]([https://youtube.com](https://www.youtube.com/watch?v=qgnYMaPx0PY))
+<a href="https://www.youtube.com/watch?v=qgnYMaPx0PY">
+<img width="1327" height="663" alt="Captura de pantalla 2026-11-17 152800" src="https://github.com/user-attachments/assets/3c5c95aa-dcb5-463f-bac9-c724e968f76b" />
+</a>
 
 
